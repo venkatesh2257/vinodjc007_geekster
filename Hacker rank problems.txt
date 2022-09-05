@@ -1,0 +1,157 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12 high sum low sum:
+
+			import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int x = sc.nextInt();
+        int y = sc.nextInt();
+        int sum = x+y;
+        if(sum >= 100){
+            System.out.println("High Sum");
+        }else{
+            System.out.println("Low Sum");
+        }
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+    }
+}
+
+
+Grade of student 
+
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int marks = sc.nextInt();
+        if (marks > 90){
+            System.out.println("excellent");
+        }
+         else if((marks >80) && (marks <= 90)){
+            System.out.println("good");
+        }
+        else if((marks >70) && (marks <= 80)){
+            System.out.println("fair");
+        }
+         else if((marks >60) && (marks <= 70)){
+            System.out.println("meets expectations");
+        }
+         else if((marks >40) && (marks <= 60)){
+            System.out.println("below par");
+        }else{
+            System.out.println("failed");
+        }
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+    }
+}
+
+
+
+shop discount
+
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int quantity = sc.nextInt();
+      
+        
+        int final_cost = (quantity*100);
+        if (final_cost > 1000){
+             int discountAmount=final_cost/100*10;
+        System.out.println(final_cost-discountAmount);
+        }else{
+               System.out.println(final_cost);
+        }
+       
+        
+        
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+    }
+}
+
+
+Bonus 
+
+
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int salary = sc.nextInt();
+        int years_exp = sc.nextInt();
+        
+            if(years_exp > 5){
+                int bonus= salary/100*5;
+            System.out.println(bonus);
+            
+        }else{
+            System.out.println(0);
+        }
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
