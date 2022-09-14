@@ -1,0 +1,19 @@
+1. You will be given a string of length n, you have to print its alternate characters in
+   separate lines starting from the 0th index till the last index.
+
+2. You will be given a string and you have to reverse the string and print it.
+
+3. Take n as an integer input and print nth power of 2.
+
+4. Print the powers of 2 from 1 to n.
+
+5. Given n, Keep on dividing the n by 3, and print the resultant value of n each time, 
+   till the value of n is greater than 0.
+
+6. Find the number of multiples of 3 and number of multiples of 5 from 1-n.
+
+7. Running sum using loop.
+
+8. Print nth fibonacci number
+
+9. Print first n fibonacci numbers.
