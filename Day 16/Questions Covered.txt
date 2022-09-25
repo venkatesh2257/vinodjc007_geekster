@@ -1,0 +1,50 @@
+1. Print the pattern below using for loop
+*****
+
+2. Print nx12 star rectangle using two methods
+a. Nested for-loop
+b. Using the function starPrinter()
+
+3. Print the pattern nxn star rectangle using two methods
+a. nested for loop
+b. Using the for loop and inside it using the function starPrinter() where the
+function starPrinter(n) prints the n stars in the same line.
+*****
+*****
+*****
+*****
+
+4. Print the pattern below using
+a. nested for loop
+b. for loop and inside it using the function starPrinter(n).
+*
+**
+***
+****
+*****
+
+5. Take an integer input n, then print 1 2 3 4 5 6 7 8 9….n in the same line.
+
+6. Print the below pattern using
+a. nested for loop
+b. for loop and inside it using the function digitPrinter(n), where this
+function prints the digits from 1 to n in the same line.
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+1 2 3 4 5 6
+1 2 3 4 5 6 7
+
+7. Print the pattern below using
+a. nested for loop
+b. Also using a for loop and inside it using a function accordingly.
+5
+5 10
+5 10 15
+5 10 15 20
+5 10 15 20 25
+5 10 15 20 25 30
+
+

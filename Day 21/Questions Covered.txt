@@ -1,0 +1,8 @@
+1. Take two integer inputs x and y. Write a function that takes in x and y as integer
+parameters and then print all the Armstrong numbers from x till y(x and y both
+inclusive) . Inside this function, use the function isArmstrong() which checks if a
+number is an Armstrong number or not and returns true or false accordingly.
+
+2. Given a 7 digit number, you have to pick the last 3 digits of the number of and
+put them in the starting.
+Eg. 1234567 is given, then this number should transform to 5671234.

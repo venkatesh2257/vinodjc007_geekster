@@ -1,0 +1,11 @@
+Leetcode Compiler :- https://leetcode.com/playground/new/empty
+
+Hackerrank Links :-
+Class Challenges: https://www.hackerrank.com/aug22-java-dsa-class-challenges
+Homework Challenges: https://www.hackerrank.com/aug22-java-dsa-homework-challenges		
+
+Class work questions :-
+https://www.hackerrank.com/contests/aug22-java-dsa-class-challenges/challenges/print-armstrong-in-a-range
+https://www.hackerrank.com/contests/aug22-java-dsa-class-challenges/challenges/rotate-7-digit-number-to-right-by-three
+
+Home work questions :-
